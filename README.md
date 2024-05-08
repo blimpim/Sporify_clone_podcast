@@ -1,1 +1,1 @@
-# Sporify_clone_podcast
+# Spotify_clone_podcast
